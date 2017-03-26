@@ -1,0 +1,24 @@
+/*html,
+body,
+.view {
+    height: 100%;
+}
+
+.view {
+    background: url("backgroundPic.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}*/
+html{
+	background-image: url(backgroundPic.jpg);
+	background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #393939;
+}
